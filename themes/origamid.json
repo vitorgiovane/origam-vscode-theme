@@ -151,6 +151,8 @@
     "editorOverviewRuler.errorForeground": "#99BBFE",
     "editorOverviewRuler.warningForeground": "#99BBFE",
     "editorOverviewRuler.infoForeground": "#DDAAFF",
+    "gitDecoration.ignoredResourceForeground": "#706D75",
+    "gitDecoration.modifiedResourceForeground": "#9088ff",
     "panel.background": "#363537",
     "panel.border": "#222222",
     "panelTitle.activeBorder": "#88BB44",
