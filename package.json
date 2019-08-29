@@ -32,5 +32,10 @@
 				"path": "./themes/origamid.json"
 			}
 		]
+	},
+	"__metadata": {
+		"id": "12e47fb7-b0a9-4cbf-bcf3-d4726e8497ff",
+		"publisherDisplayName": "Origamid",
+		"publisherId": "675f8d21-b1c7-43fc-a7b6-b5db4392c1d1"
 	}
 }
